@@ -1,0 +1,13 @@
+{
+    "folders": [
+    {
+       "name":"deeper",
+        "files": [
+            {
+                "name":"lost.txt",
+                "content":"Not all those who wander are lost."
+            }
+        ]
+    }
+ ]
+}
